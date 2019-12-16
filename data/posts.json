@@ -1,5 +1,5 @@
 [
-  { "id": 1, "title": "ES2019 new features" },
-  { "id": 2, "title": "Comparison of Node.js frameworks" },
-  { "id": 3, "title": "Vue.js, Angular and React are here to stay" }
+  { "id": 1, "title": "ES2019 new features", "tag_ids": [3, 2, 1] },
+  { "id": 2, "title": "Comparison of Node.js frameworks", "tag_ids": [2, 3] },
+  { "id": 3, "title": "Vue.js, Angular and React are here to stay", "tag_ids": [3] }
 ]
